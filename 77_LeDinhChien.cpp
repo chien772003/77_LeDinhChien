@@ -9,7 +9,6 @@ int main(){
 =======
 	cout << "test thu sua doi trên nhánh moi";
 	cout<<"them 1 dong o nhanh 77_LeDinhChien"
->>>>>>> 2295501a9375c410aeddf7f7d7dcef675cfa03a8
 	system("pause");
 	return 0;
 }
