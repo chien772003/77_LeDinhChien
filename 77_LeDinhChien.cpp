@@ -4,7 +4,8 @@ int main(){
 
 	cout << "77 Le Dinh Chien";
 	cout << endl;
-	cout << "test th? s?a ??i trên nhánh m?i\n";
+	cout << "test thu sua doi trên nhánh moi";
+	cout<<"them 1 dong o nhanh 77_LeDinhChien"
 	system("pause");
 	return 0;
 }
