@@ -8,7 +8,9 @@ int main(){
 	cout << "them 1 dong tu nhanh main" << endl;
 =======
 	cout << "test thu sua doi trên nhánh moi";
-	cout<<"them 1 dong o nhanh 77_LeDinhChien"
+cout << "them 1 dong o nhanh 77_LeDinhChien"
+
+cout << "test update";
 	system("pause");
 	return 0;
 }
